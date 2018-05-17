@@ -1,6 +1,6 @@
 {
   "name": "moment-with-locales-es6",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Module exporting momentjs library with locales usable in ES6 environment",
   "main": "index.js",
   "repository": {
@@ -18,7 +18,7 @@
     "url": "https://github.com/rezendeneto/moment-with-locales-es6/issues"
   },
   "homepage": "https://github.com/rezendeneto/moment-with-locales-es6#readme",
-  "dependencies": {
-    "moment": "2.18.1"
+  "peerDependencies": {
+    "moment": "^2.0.0"
   }
 }
